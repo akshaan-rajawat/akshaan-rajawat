@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm</h1>
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/149821111/337877236-2386d2ce-a05f-44b7-b76f-9bb679ce2a9b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240608T132758Z&X-Amz-Expires=300&X-Amz-Signature=c7dcc5d21b8ef3e654a15ab0672b50c9490fe564f81c85ebb583326f9be97d4b&X-Amz-SignedHeaders=host&actor_id=149821111&key_id=0&repo_id=737355506">
+![aks pixel logo](https://github.com/akshaan-rajawat/akshaan-rajawat/assets/149821111/15501720-356e-4951-9ead-e8838097abf4)
+
 
 
 
